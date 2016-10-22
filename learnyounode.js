@@ -17,8 +17,8 @@ learnyounode.addAll([
   'JUGGLING ASYNC',
   'TIME SERVER',
   'HTTP FILE SERVER',
-  'HTTP UPPERCASERER',
-  'HTTP JSON API SERVER'
+  'HTTP UPPERCASERER'
+  // 'HTTP JSON API SERVER'
 ])
 
 module.exports = learnyounode
