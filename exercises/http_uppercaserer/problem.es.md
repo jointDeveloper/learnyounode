@@ -17,7 +17,7 @@ El servidor deberá escuchar en un puerto cuyo número será el primer argumento
 
 Para resolver el ejercicio es conveniente usar las capacidades de streaming de los objetos `request` y `response` pero no obligatorio.
 
-Para empezar, puedes verificar el tipo (método) de la petición por medio del atributo `method` de la petición:
+Para empezar, puedes verificar el método (lo que habíamos llamado tipo) de la petición por medio del atributo `method` de la petición:
 
 ```js
 if (req.method === 'POST') {
